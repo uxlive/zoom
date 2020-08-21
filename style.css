@@ -23,8 +23,8 @@ body {
   position: absolute;
   width: 300px;
   height: 300px;
-  box-shadow: 0 0 0 2px rgba(255, 0, 0, 0.5), 5px 5px 50px 50px rgba(0, 0, 0, 0);
-  border-radius: 50%;
+  box-shadow: 0 0 0 2px rgba(255, 0, 0, 0.5), 5px 5px 50px 50px rgba(0, 0, 0, 0.1);
+  border-radius: 5%;
   top: 0;
   left: 0;
   overflow: hidden;
